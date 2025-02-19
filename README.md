@@ -1,4 +1,4 @@
-# SmoothScroll-CardAnimation
+# ScrollMotionCards
 
 Un projet d'animation de cartes avec défilement fluide, utilisant **Lenis** pour le smooth scroll et **GSAP** pour les animations.
 
