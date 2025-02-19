@@ -8,6 +8,10 @@ Un projet d'animation de cartes avec défilement fluide, utilisant **Lenis** pou
 - **Défilement fluide** : Utilisation de Lenis pour un défilement doux.
 - **Animation des cartes** : Les cartes apparaissent avec des rotations et des décalages dynamiques.
 
+## Démo en Ligne
+Vous pouvez voir une démo en direct du projet ici :  
+👉 [https://jaouaderradi.github.io/ScrollMotionCards/](https://jaouaderradi.github.io/ScrollMotionCards/)
+
 ## Technologies Utilisées
 - Lenis : Pour le smooth scroll.
 - [GSAP](https://gsap.com) : Pour les animations.
